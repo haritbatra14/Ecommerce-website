@@ -1,0 +1,76 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0;
+
+}
+body
+{
+background-color: skyblue;
+}
+  .bs1
+  {
+    text-align: end;
+    margin-right: 100px;
+  }
+.navbar button
+{
+    background-color: rgb(85, 149, 170);
+    color: white;
+    border: transparent;
+    padding: 10px;
+       
+}
+.flexbox
+{
+    display: flex;
+    justify-content: center;
+    
+}
+.flexbox >div
+{
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+    border-radius: 5px;
+
+}
+.flexbox2
+{
+    height: 300px;
+    width: 1700px;
+    background-color: white;
+    padding: 10px,20px;
+}
+.flexbox2 h1
+{
+    margin-left: 1000px;
+}
+.para
+{
+    margin-left: 500px;
+    margin-top: -15px;
+}
+.para2
+{
+    margin-left: 1000px ;
+    margin-top: -20px;
+}
+.SEARCH
+{
+    margin-left: 300px;
+    margin-top: -100px;
+    
+}
+.SEARCH button
+{
+    background-color:#eb4b4b;
+    border-radius: 5px;
+}
+.fares
+{
+    margin-top: 100px;
+    margin-right: 500px;
+}
+
